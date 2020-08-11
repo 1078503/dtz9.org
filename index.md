@@ -33,7 +33,7 @@ title: 大头针网址 - DTZ9.ORG
 | [Ray's Blog](https://raycoder.me/)  |     [木子博客](https://muuzi.cn/)     | [蓝天个人博客](http://www.along168.cn/)  |        [豆豆の鱼](http://www.midousir.com/)         |
 |    [BORBER](https://borber.cn/)     | [Debug客栈](https://www.debuginn.cn/) | [风萧萧兮易水寒](https://www.fiisi.com/) |           [攻城狮笔记](http://qumac.com/)           |
 
-友情链接：[低头族](https://ditou.org) [设计导航](https://hao.lingganjie.com/) [麒麟资源导航](https://www.kirin.fun/) 
+友情链接：[大头针](https://dtz9.com) [低头族](https://ditou.org) [设计导航](https://hao.lingganjie.com/) [麒麟资源导航](https://www.kirin.fun/) 
 
 ---
 
