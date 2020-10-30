@@ -22,7 +22,7 @@ title: 大头针网址 - DTZ9.ORG
 
 ###### 中文博客
 
-|     [低头族](https://ditou.org)     |   [心灵博客](http://blog.dngz.net/)   |       [猫叔](https://www.mcoo.cc/)       |        [肥鱼Blog](https://www.feiyuyu.net/)         |
+|     [近视眼逛博客](https://ditou.org)     |   [心灵博客](http://blog.dngz.net/)   |       [猫叔](https://www.mcoo.cc/)       |        [肥鱼Blog](https://www.feiyuyu.net/)         |
 | :---------------------------------: | :-----------------------------------: | :--------------------------------------: | :-------------------------------------------------: |
 | [大缺缺](https://www.daqueque.com/) |    [常阳时光](https://cyhour.com/)    |  [青山绿水](https://www.huhexian.com/)   |          [GoaKay](https://www.goakay.com/)          |
 |   [王志勇](http://www.auiou.com/)   |     [林海草原](https://lhcy.org/)     |    [梦幻辰风](https://www.mhcf.net/)     |        [生活的左上角](https://bwskyer.com/)         |
@@ -33,7 +33,7 @@ title: 大头针网址 - DTZ9.ORG
 | [Ray's Blog](https://raycoder.me/)  |     [木子博客](https://muuzi.cn/)     | [蓝天个人博客](http://www.along168.cn/)  |        [豆豆の鱼](http://www.midousir.com/)         |
 |    [BORBER](https://borber.cn/)     | [Debug客栈](https://www.debuginn.cn/) | [风萧萧兮易水寒](https://www.fiisi.com/) |           [攻城狮笔记](http://qumac.com/)           |
 
-友情链接：[大头针](https://dtz9.com) [低头族](https://ditou.org) [设计导航](https://hao.lingganjie.com/) [麒麟资源导航](https://www.kirin.fun/) 
+友情链接：[大头针](https://dtz9.com) [近视眼逛博客](https://ditou.org) [设计导航](https://hao.lingganjie.com/) [麒麟资源导航](https://www.kirin.fun/) 
 
 ---
 
